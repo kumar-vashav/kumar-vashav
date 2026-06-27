@@ -33,6 +33,10 @@ My approach is simple: *learn, build, and explain with clarity*.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Tally Prime](https://img.shields.io/badge/Tally_Prime-FF6F00?style=for-the-badge&logo=tally&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
