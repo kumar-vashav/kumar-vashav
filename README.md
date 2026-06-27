@@ -12,12 +12,6 @@ Passionate about data-driven decision making and analytics. I specialize in Exce
 In my learning journey, I'm focused on mastering end-to-end data analysis - from data cleaning in Excel to storytelling with Power BI. I embrace new tools like Copilot that make analysis faster and more accessible.
 
 Outside of learning, I enjoy solving real-world problems with datasets and sharing what I learn. My approach is simple: learn, build, and explain with clarity.
-<div align="center">
-  <img src="profile.png" width="150" style="border-radius:50%">
-  
-  ### 👋 Hi there
-</div>
-
 ### 🛠️ Tech Stack
 
 [Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -39,8 +33,5 @@ Outside of learning, I enjoy solving real-world problems with datasets and shari
 
 ### 📊 GitHub Stats
 [[Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-vashav&show_icons=true&theme=tokyonight)](https://github.com/kumar-vashav)
-
----
-*"Data is the new oil" — Clive Humby
 
 
