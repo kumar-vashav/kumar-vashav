@@ -12,6 +12,11 @@ Passionate about data-driven decision making and analytics. I specialize in Exce
 In my learning journey, I'm focused on mastering end-to-end data analysis - from data cleaning in Excel to storytelling with Power BI. I embrace new tools like Copilot that make analysis faster and more accessible.
 
 Outside of learning, I enjoy solving real-world problems with datasets and sharing what I learn. My approach is simple: learn, build, and explain with clarity.
+<div align="center">
+  <img src="profile.png" width="150" style="border-radius:50%">
+  
+  ### 👋 Hi there
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -27,19 +32,15 @@ Outside of learning, I enjoy solving real-world problems with datasets and shari
 [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 [Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Hi there 👋
+[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-**kumar-vashav/kumar-vashav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tera-username)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+[[Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-vashav&show_icons=true&theme=tokyonight)](https://github.com/kumar-vashav)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Data is the new oil" — Clive Humby
+
+
