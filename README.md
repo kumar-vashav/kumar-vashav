@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="profile.png" width="150" style="border-radius:50%">
-  
-  ## 👋 Hi, I'm Vashav kumar
+ ## 👋 Hi, I'm Vashav kumar
 
 *Data Analyst & Full-Stack Developer* from Delhi, India. I work with *Excel, Power BI, SQL, Python* for analytics and *HTML/CSS/JS* for web design. 
 Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turning data into insights and code into real solutions.
