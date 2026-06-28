@@ -9,7 +9,9 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*.
 I love turning raw data into meaningful insights using *Excel, Power BI, SQL, and AI tools*.
 
 ---
-
+<p align="center">
+  <img src="coding.gif" alt="Deep work mode" width="600"/>
+</p>
 ### 🚀 Expertise
 - Passionate about *data-driven decision making* and analytics  
 - Specialize in *Excel automation, **data visualization, and **AI-powered workflows* using Microsoft Copilot  
