@@ -9,9 +9,11 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*.
 I love turning raw data into meaningful insights using *Excel, Power BI, SQL, and AI tools*.
 
 ---
-<p align="center">
-  <img src="https://github.com/kumar-vashav/kumar-vashav/raw/main/coding.gif" alt="Deep work mode" width="600"/>
-</p>
+<div align="center">
+
+![Deep work mode](./WhatsAppVideo2026-06-28at10.52.19AM-ezgif.com-video-to-gif-converter.gif)
+
+</div>
 
 ### 🚀 Expertise
 - Passionate about *data-driven decision making* and analytics  
