@@ -11,7 +11,7 @@ I love turning raw data into meaningful insights using *Excel, Power BI, SQL, an
 ---
 <div align="center">
 
-![Deep work mode](./WhatsAppVideo2026-06-28at10.52.19AM-ezgif.com-video-to-gif-converter.gif)
+![Deep work mode](./WhatsAppVideo2026-06-28at1.25.15PM2-ezgif.com-video-to-gif-converter.gif)
 
 </div>
 
