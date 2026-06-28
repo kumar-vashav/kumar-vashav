@@ -10,8 +10,9 @@ I love turning raw data into meaningful insights using *Excel, Power BI, SQL, an
 
 ---
 <p align="center">
-  <img src="coding.gif" alt="Deep work mode" width="600"/>
+  <img src="https://github.com/kumar-vashav/kumar-vashav/raw/main/coding.gif" alt="Deep work mode" width="600"/>
 </p>
+
 ### 🚀 Expertise
 - Passionate about *data-driven decision making* and analytics  
 - Specialize in *Excel automation, **data visualization, and **AI-powered workflows* using Microsoft Copilot  
