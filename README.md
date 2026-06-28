@@ -1,13 +1,11 @@
 <div align="center">
   <img src="profile.png" width="150" style="border-radius:50%">
   
-  ## 👋 Hi there, I'm Kumar Vashav
+  ## 👋 Hi, I'm Kumar Vashav
 
-An aspiring *Data Analyst & Full-Stack Developer* from Delhi, India, with a passion for turning ideas into reality through code and data.
-
-I thrive at the intersection of *Data Analytics, Web Designing, and Programming. Whether it's extracting meaningful insights from raw data using **Excel, Power BI, and SQL, crafting responsive and aesthetic websites with **HTML, CSS, and JavaScript, or building logic-driven solutions with **Python*, I love creating things that solve real-world problems.
-
-Currently leveling up my skills with the *Microsoft Copilot Specialization on Coursera* and exploring how AI tools can supercharge analytics and development workflows. For me, every dataset tells a story, and every line of code builds a better experience.
+An aspiring *Data Analyst & Full-Stack Developer* from Delhi, India. I love working at the intersection of *Data Analytics, Web Designing, and Programming*.
+From analyzing data with *Excel, Power BI, and SQL* to building responsive websites using *HTML, CSS, JS* and solving problems with *Python*, I enjoy turning ideas into real solutions.
+Currently pursuing *Microsoft Copilot Specialization on Coursera* and exploring AI tools to boost my workflows.
 
 ---
 <div align="center">
