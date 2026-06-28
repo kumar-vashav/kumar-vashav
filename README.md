@@ -3,9 +3,8 @@
   
   ## 👋 Hi, I'm Kumar Vashav
 
-An aspiring *Data Analyst & Full-Stack Developer* from Delhi, India. I love working at the intersection of *Data Analytics, Web Designing, and Programming*.
-From analyzing data with *Excel, Power BI, and SQL* to building responsive websites using *HTML, CSS, JS* and solving problems with *Python*, I enjoy turning ideas into real solutions.
-Currently pursuing *Microsoft Copilot Specialization on Coursera* and exploring AI tools to boost my workflows.
+*Data Analyst & Full-Stack Developer* from Delhi, India. I work with *Excel, Power BI, SQL, Python* for analytics and *HTML/CSS/JS* for web design. 
+Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turning data into insights and code into real solutions.
 
 ---
 <div align="center">
