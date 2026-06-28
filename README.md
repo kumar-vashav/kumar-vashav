@@ -11,13 +11,17 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turnin
 </div>
 
 ### 🚀 Expertise
-- Passionate about *data-driven decision making* and analytics  
-- Specialize in *Excel automation, **data visualization, and **AI-powered workflows* using Microsoft Copilot  
-- Building strong foundations in *end-to-end data analysis*: from cleaning datasets in Excel to storytelling with Power BI  
-- Exploring *AI tools* that make analysis faster and more accessible  
 
-Outside of learning, I enjoy solving real-world problems with datasets and sharing what I learn.  
-My approach is simple: *learn, build, and explain with clarity*.
+*Data Analytics & BI*
+- Transform raw data into insights using *Advanced Excel, SQL & Python*
+- Design interactive *Power BI* dashboards & KPI reports for business decisions
+- Strong in data cleaning, analysis & writing complex MySQL queries
+
+*Web Development* 
+- Build responsive, mobile-first websites with *HTML5, CSS3 & JavaScript*
+- Version control & collaboration using *Git & GitHub*
+
+*Core Tools:* MySQL Power BI Python Pandas Excel HTML/CSS JavaScript Git Copilot
 
 ---
 
