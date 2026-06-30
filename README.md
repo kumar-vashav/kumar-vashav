@@ -5,9 +5,7 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turnin
 
 ---
 <div align="center">
-
-![Deep work mode](./WhatsAppVideo2026-06-29at7.06.58AM-ezgif.com-video-to-gif-converter.gif)
-
+  <img src="./WhatsApp Video 2026-06-30 at 1.49.51 PM.gif" alt="Deep work mode" width="600">
 </div>
 
 ### 🚀 Expertise
