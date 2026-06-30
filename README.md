@@ -5,10 +5,10 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turnin
 
 ---
 <div align="center">
-  <img src="./WhatsApp Video 2026-06-30 at 1.49.51 PM.gif" alt="Deep work mode" width="700">
+  <img src="./WhatsApp Video 2026-06-30 at 1.49.51 PM (1).gif" alt="Deep work mode" width="700">
 </div>
 
-### 🚀 Expertise
+   ### 🚀 Expertise
 
 *Data Analytics & BI*
 - Transform raw data into insights using *Advanced Excel, SQL & Python*
