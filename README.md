@@ -52,7 +52,13 @@ Currently pursuing *Microsoft Copilot Specialization on Coursera*. I love turnin
 ---
 
 ### 📊 GitHub Stats
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-vashav&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <a href="https://github.com/kumar-vashav">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumar-vashav&theme=tokyonight" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumar-vashav&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
